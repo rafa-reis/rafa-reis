@@ -1,11 +1,12 @@
-### opa! 👋
+### opa! 🤙
 
 <p><strong>Rafael Reis</strong> aqui!</p>
 
 <p>Debugando meus próprios bugs</p>
 
-- 🌱 Engenheiro Civil e aluno na Growdev do Programa Starter Web Full Stack Developer
+- 🌱 Engenheiro Civil e aluno na Growdev do Programa Starter Web Full Stack Developer. 
 - 🤔 Tecnologias favoritas: HTML, CSS e JavaScript.
+- 💡 Entusiasta de tecnologia, leitura e futebol.
 
 
 <div align="center">
