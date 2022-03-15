@@ -4,7 +4,7 @@
 
 <p>Debugando meus próprios bugs</p>
 
-- 🌱 Engenheiro Civil e aluno na Growdev do Programa Starter SWeb Full Stack Developer
+- 🌱 Engenheiro Civil e aluno na Growdev do Programa Starter Web Full Stack Developer
 - 🤔 Tecnologias favoritas: HTML, CSS e JavaScript.
 
 
@@ -17,10 +17,11 @@
  ##
   
  <div> 
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="#"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 
   
   ![Snake animation](https://github.com/rafa-reis/rafa-reis/blob/output/github-contribution-grid-snake.svg)
 </div>
