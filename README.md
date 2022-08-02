@@ -4,11 +4,6 @@
 
 <p>Debugando meus próprios bugs</p>
 
-- 🌱 Engenheiro Civil e aluno na Growdev do Programa Starter Web Full Stack Developer. 
-- 🤔 Tecnologias favoritas: HTML, CSS e JavaScript.
-- 💡 Entusiasta de tecnologia, leitura e futebol.
-
-
 <div align="center">
   <a href="https://github.com/rafa-reis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-reis&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
